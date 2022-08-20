@@ -1,4 +1,4 @@
-## AtCoderProblems
+## Competitive Coding
 
 This is a repository dedicated for Competitve Coding
 
